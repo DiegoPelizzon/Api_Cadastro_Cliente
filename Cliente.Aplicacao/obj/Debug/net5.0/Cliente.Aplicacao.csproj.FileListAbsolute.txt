@@ -1,0 +1,15 @@
+C:\Users\Diego\source\repos\Cliente\Cliente.Aplicacao\bin\Debug\net5.0\Cliente.Aplicacao.deps.json
+C:\Users\Diego\source\repos\Cliente\Cliente.Aplicacao\bin\Debug\net5.0\Cliente.Aplicacao.dll
+C:\Users\Diego\source\repos\Cliente\Cliente.Aplicacao\bin\Debug\net5.0\ref\Cliente.Aplicacao.dll
+C:\Users\Diego\source\repos\Cliente\Cliente.Aplicacao\bin\Debug\net5.0\Cliente.Aplicacao.pdb
+C:\Users\Diego\source\repos\Cliente\Cliente.Aplicacao\obj\Debug\net5.0\Cliente.Aplicacao.csproj.AssemblyReference.cache
+C:\Users\Diego\source\repos\Cliente\Cliente.Aplicacao\obj\Debug\net5.0\Cliente.Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\source\repos\Cliente\Cliente.Aplicacao\obj\Debug\net5.0\Cliente.Aplicacao.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\Cliente\Cliente.Aplicacao\obj\Debug\net5.0\Cliente.Aplicacao.AssemblyInfo.cs
+C:\Users\Diego\source\repos\Cliente\Cliente.Aplicacao\obj\Debug\net5.0\Cliente.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\Cliente\Cliente.Aplicacao\obj\Debug\net5.0\Cliente.Aplicacao.dll
+C:\Users\Diego\source\repos\Cliente\Cliente.Aplicacao\obj\Debug\net5.0\ref\Cliente.Aplicacao.dll
+C:\Users\Diego\source\repos\Cliente\Cliente.Aplicacao\obj\Debug\net5.0\Cliente.Aplicacao.pdb
+C:\Users\Diego\source\repos\Cliente\Cliente.Aplicacao\bin\Debug\net5.0\Cliente.Dominio.dll
+C:\Users\Diego\source\repos\Cliente\Cliente.Aplicacao\bin\Debug\net5.0\Cliente.Dominio.pdb
+C:\Users\Diego\source\repos\Cliente\Cliente.Aplicacao\obj\Debug\net5.0\Cliente.Aplicacao.csproj.CopyComplete

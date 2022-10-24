@@ -1,0 +1,15 @@
+C:\Users\Diego\source\repos\Cliente\Cliente.Infra\bin\Debug\net5.0\Cliente.Infra.deps.json
+C:\Users\Diego\source\repos\Cliente\Cliente.Infra\bin\Debug\net5.0\Cliente.Infra.dll
+C:\Users\Diego\source\repos\Cliente\Cliente.Infra\bin\Debug\net5.0\ref\Cliente.Infra.dll
+C:\Users\Diego\source\repos\Cliente\Cliente.Infra\bin\Debug\net5.0\Cliente.Infra.pdb
+C:\Users\Diego\source\repos\Cliente\Cliente.Infra\bin\Debug\net5.0\Cliente.Dominio.dll
+C:\Users\Diego\source\repos\Cliente\Cliente.Infra\bin\Debug\net5.0\Cliente.Dominio.pdb
+C:\Users\Diego\source\repos\Cliente\Cliente.Infra\obj\Debug\net5.0\Cliente.Infra.csproj.AssemblyReference.cache
+C:\Users\Diego\source\repos\Cliente\Cliente.Infra\obj\Debug\net5.0\Cliente.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\source\repos\Cliente\Cliente.Infra\obj\Debug\net5.0\Cliente.Infra.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\Cliente\Cliente.Infra\obj\Debug\net5.0\Cliente.Infra.AssemblyInfo.cs
+C:\Users\Diego\source\repos\Cliente\Cliente.Infra\obj\Debug\net5.0\Cliente.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\Cliente\Cliente.Infra\obj\Debug\net5.0\Cliente.Infra.csproj.CopyComplete
+C:\Users\Diego\source\repos\Cliente\Cliente.Infra\obj\Debug\net5.0\Cliente.Infra.dll
+C:\Users\Diego\source\repos\Cliente\Cliente.Infra\obj\Debug\net5.0\ref\Cliente.Infra.dll
+C:\Users\Diego\source\repos\Cliente\Cliente.Infra\obj\Debug\net5.0\Cliente.Infra.pdb
